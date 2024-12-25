@@ -25,8 +25,11 @@ Welcome to the Weather App! This project is an Android application built with An
 ## Tools & Technologies 🖥️
 
 •	Android Studio: Development platform.
+
 •	Java/Kotlin: Primary programming languages.
+
 •	OpenWeatherMap API: Fetches live weather data.
+
 •	Material Design: Ensures a modern and responsive user experience.
 
 
@@ -42,8 +45,11 @@ git clone https://github.com/l0rikkelmendi/AndroidStudio_Applicationt
 ### Future Enhancements 🚀
 
 •	Add support for weather forecasts (hourly/daily).
+
 •	Integrate map-based city selection.
+
 •	Support for multiple languages.
+
 •	Include weather alerts and notifications.
 
 
@@ -53,9 +59,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ________________________________________
 
 
-
-
-Thank you for checking out the Weather App project! Feel free to reach out if you have any questions or suggestions.
+### Thank you for checking out the Weather App project! Feel free to reach out if you have any questions or suggestions.
 
 
 
