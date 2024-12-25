@@ -36,7 +36,7 @@ Welcome to the Weather App! This project is an Android application built with An
 ## Installation 📥
 
 1.	Clone the repository:
-git clone https://github.com/l0rikkelmendi/AndroidStudio_Applicationt
+git clone https://github.com/l0rikkelmendi/AndroidStudio_Application
 2.	Open the project in Android Studio.
 3.	Sync the Gradle files and install necessary dependencies.
 4.	Run the app on an emulator or physical Android device.
