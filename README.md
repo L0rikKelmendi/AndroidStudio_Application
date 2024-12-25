@@ -7,8 +7,11 @@ Welcome to the Weather App! This project is an Android application built with An
 ## Features 🌍
 
 •	Global Weather Data: Access up-to-date weather information for cities worldwide.
+
 •	Intuitive User Interface: A clean and user-friendly design for seamless navigation.
+
 •	Real-Time Updates: Get the latest weather conditions at your fingertips.
+
 •	Multi-City Support: Easily search and view weather details for multiple cities.
 
 
