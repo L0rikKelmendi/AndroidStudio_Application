@@ -1,4 +1,4 @@
-Weather App 🌦️
+# Weather App 🌦️
 
 
 Welcome to the Weather App! This project is an Android application built with Android Studio that allows users to check the weather of cities around the world in real-time. Whether you're planning a trip or simply curious about the weather in another location, this app has you covered.
