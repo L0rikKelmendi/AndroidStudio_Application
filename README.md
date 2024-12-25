@@ -4,7 +4,7 @@
 Welcome to the Weather App! This project is an Android application built with Android Studio that allows users to check the weather of cities around the world in real-time. Whether you're planning a trip or simply curious about the weather in another location, this app has you covered.
 
 
-Features 🌍
+## Features 🌍
 
 •	Global Weather Data: Access up-to-date weather information for cities worldwide.
 •	Intuitive User Interface: A clean and user-friendly design for seamless navigation.
@@ -12,14 +12,14 @@ Features 🌍
 •	Multi-City Support: Easily search and view weather details for multiple cities.
 
 
-How It Works 🛠️
+## How It Works 🛠️
 
 1.	Search for a City: Use the search bar to find your desired city.
 2.	View Weather Details: Check details like temperature, humidity, wind speed, and more.
 3.	Plan Ahead: Use the app to prepare for travel, events, or daily activities.
 
 
-Tools & Technologies 🖥️
+## Tools & Technologies 🖥️
 
 •	Android Studio: Development platform.
 •	Java/Kotlin: Primary programming languages.
@@ -27,7 +27,7 @@ Tools & Technologies 🖥️
 •	Material Design: Ensures a modern and responsive user experience.
 
 
-Installation 📥
+## Installation 📥
 
 1.	Clone the repository:
 git clone https://github.com/l0rikkelmendi/AndroidStudio_Applicationt
@@ -36,7 +36,7 @@ git clone https://github.com/l0rikkelmendi/AndroidStudio_Applicationt
 4.	Run the app on an emulator or physical Android device.
 
 
-Future Enhancements 🚀
+### Future Enhancements 🚀
 
 •	Add support for weather forecasts (hourly/daily).
 •	Integrate map-based city selection.
@@ -44,7 +44,7 @@ Future Enhancements 🚀
 •	Include weather alerts and notifications.
 
 
-Contributing 🤝
+## Contributing 🤝
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests with your enhancements or bug fixes.
 ________________________________________
